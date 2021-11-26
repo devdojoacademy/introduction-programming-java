@@ -14,10 +14,10 @@ public class ExerciseConditionals01 {
         String percentageValue = "";
         if (salary > 5000) {
             result = salary * 0.3;
-            percentageValue ="30% = "+result;
-        }else {
+            percentageValue = "30% = " + result;
+        } else {
             result = salary * 0.15;
-            percentageValue ="15% = "+result;
+            percentageValue = "15% = " + result;
         }
 
         System.out.println(percentageValue);
