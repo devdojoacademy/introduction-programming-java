@@ -1,3 +1,5 @@
+package academy.devdojo.conditionals;
+
 public class Conditionals05 {
     public static void main(String[] args) {
         String savedName = "Alucard";

@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class Variables02 {
     public static void main(String[] args) {
         byte age = 120;

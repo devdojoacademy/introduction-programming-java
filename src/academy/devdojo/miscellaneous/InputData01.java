@@ -1,3 +1,5 @@
+package academy.devdojo.miscellaneous;
+
 import java.util.Scanner;
 
 public class InputData01 {

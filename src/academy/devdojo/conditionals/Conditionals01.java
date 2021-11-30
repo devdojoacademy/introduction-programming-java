@@ -1,3 +1,5 @@
+package academy.devdojo.conditionals;
+
 public class Conditionals01 {
     public static void main(String[] args) {
         boolean condition = true;

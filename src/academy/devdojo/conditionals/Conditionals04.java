@@ -1,3 +1,5 @@
+package academy.devdojo.conditionals;
+
 public class Conditionals04 {
     public static void main(String[] args) {
         // +, -, *, /, %

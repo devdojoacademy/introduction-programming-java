@@ -1,3 +1,5 @@
+package academy.devdojo.conditionals;
+
 public class Conditionals07 {
     public static void main(String[] args) {
         float income = 12000.0F;

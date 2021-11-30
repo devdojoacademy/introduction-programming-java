@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 /*
 Given a number
 If the number is even print the message: The number: <number> is even

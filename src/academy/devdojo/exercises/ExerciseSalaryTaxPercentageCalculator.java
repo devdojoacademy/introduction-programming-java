@@ -1,5 +1,7 @@
+package academy.devdojo.exercises;
+
 /*
-Create a class ExerciseSalaryTaxPercentageCalculator
+Create a class academy.devdojo.exercises.ExerciseSalaryTaxPercentageCalculator
 Create a variable that can store a salary value
 Create a second variable to store the tax percentage value
 Create a third variable to store the amount we need to pay to a given salary and percentage

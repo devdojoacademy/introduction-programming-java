@@ -1,4 +1,4 @@
-/*
+package academy.devdojo.exercises;/*
 Given a salary
 If the salary is greater than 5000 print in the console the value of 30% of the salary
 Otherwise print only 15% of the salary's value.

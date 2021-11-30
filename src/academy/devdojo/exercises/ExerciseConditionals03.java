@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 /*
 Given an age, find the best category to fit that person
 < 13 = "Kids"

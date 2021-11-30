@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 import java.util.Scanner;
 
 /*

@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class Variables03 {
     public static void main(String[] args) {
         String name = "Goku";

@@ -1,3 +1,5 @@
+package academy.devdojo.conditionals;
+
 public class Conditionals06 {
     public static void main(String[] args) {
        float ps5Price = 500;

@@ -1,3 +1,5 @@
+package academy.devdojo.conditionals;
+
 public class Conditionals03 {
     public static void main(String[] args) {
         int firstAge = 20;
