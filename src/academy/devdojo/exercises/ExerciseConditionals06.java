@@ -16,18 +16,18 @@ public class ExerciseConditionals06 {
         Scanner input = new Scanner(System.in);
         System.out.println("Type your gender M. for Male or F. for female");
         char gender = input.next().charAt(0);
-        if(gender != 'M' && gender != 'F' && gender != 'm' && gender != 'f'){
+        if (gender != 'M' && gender != 'F' && gender != 'm' && gender != 'f') {
             System.out.println("Invalid gender");
             System.exit(0);
         }
         System.out.println("Type your age");
         int age = input.nextInt();
 
-        if((gender == 'M' || gender == 'F') && age < 18){
+        if ((gender == 'M' || gender == 'F') && age < 18) {
             System.out.println("Service not allowed for people under 18");
-        }else if(gender == 'F'){
+        } else if (gender == 'F') {
             System.out.println("Would you like to enlist?");
-        }else {
+        } else {
             System.out.println("Mandatory Service");
         }
     }
