@@ -5,7 +5,8 @@ public class While01 {
         int counter = 0;
         while(counter < 10){
             System.out.println(counter + " HEEEEEEEY DEVDOJO!");
-            counter = counter + 1;
+            //counter = counter + 1;
+            counter++;
         }
     }
 }
