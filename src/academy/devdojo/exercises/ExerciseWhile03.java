@@ -17,15 +17,14 @@ public class ExerciseWhile03 {
         String passwordSaved = "king";
         while (true) {
             System.out.println("Username:");
-            String username = scanner.next();
+            String username = scanner.nextLine();
             System.out.println("Password:");
-            String password = scanner.next();
+            String password = scanner.nextLine();
             if (username.equals(usernameSaved) && password.equals(passwordSaved)) {
                 System.out.println("ACCESS GRANTED");
                 break;
             }
             System.out.println("ACCESS DENIED");
-
         }
         System.out.println("Program finished");
     }
