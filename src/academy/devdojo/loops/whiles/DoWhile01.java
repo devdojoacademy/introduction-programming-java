@@ -1,4 +1,4 @@
-package academy.devdojo.loops;
+package academy.devdojo.loops.whiles;
 
 public class DoWhile01 {
     public static void main(String[] args) {
