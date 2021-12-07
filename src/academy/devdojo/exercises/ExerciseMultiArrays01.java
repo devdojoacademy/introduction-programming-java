@@ -1,8 +1,8 @@
-package academy.devdojo.arrays;
+package academy.devdojo.exercises;
 
 import java.util.Scanner;
 
-public class MultiArrays04 {
+public class ExerciseMultiArrays01 {
     public static void main(String[] args) {
         int[][] multiArray = new int[3][3];
         Scanner scanner = new Scanner(System.in);
